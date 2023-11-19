@@ -5,7 +5,7 @@ Official samples for Chrome Extensions and the Chrome Apps platform. (Chrome App
 For more information on extensions, see [Chrome Developers](https://developer.chrome.com).
 
 ## Explore samples
-## Changes
+## Changes - Super simple text change
 The directory structure is as follows:
 
 - [api-samples/](api-samples/) - extensions focused on a single API package
