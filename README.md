@@ -6,6 +6,7 @@ For more information on extensions, see [Chrome Developers](https://developer.ch
 
 ## Explore samples
 ## Changes - Super simple text change
+## Another super simple text change
 The directory structure is as follows:
 
 - [api-samples/](api-samples/) - extensions focused on a single API package
